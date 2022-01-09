@@ -1,0 +1,14 @@
+/*!***********************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/less-loader/dist/cjs.js!./node_modules/vue-loader/lib/index.js??vue-loader-options!./lib/echo-ui-button.vue?vue&type=style&index=0&lang=less& ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************/
+.echo_ui_button_wrapper {
+  display: inline-block;
+}
+.echo_ui_button_wrapper .echo_ui_button {
+  display: inline-block;
+  border: 1px solid #ddd;
+  padding: 0 12px;
+  line-height: 32px;
+  font-size: 16px;
+}
+
